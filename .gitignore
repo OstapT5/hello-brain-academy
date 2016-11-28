@@ -1,0 +1,8 @@
+#.idea - directory of IntelliJ IDEA service files
+.idea
+
+#out - directory of binary Java classes files
+out
+
+#*.iml - IntelliJ IDEA module library file
+hello-brain-academy.iml
